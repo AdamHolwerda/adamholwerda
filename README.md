@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on [QUESTA](https://questa.space)
 
-- 🤝 I’m making a comic about [Browserface](https://browserface.com)
+- 👨‍💻 Some of my projects are listed at [https://adamholwerda.vercel.app](https://adamholwerda.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://adamholwerda.vercel.app](https://adamholwerda.vercel.app)
+- 📝 I sometimes write articles on [https://dev.to/adamholwerda](https://dev.to/adamholwerda)
 
-- 📝 I regularly write articles on [https://dev.to/adamholwerda](https://dev.to/adamholwerda)
-
-- 💬 Ask me about **React, MobX, Typescript**
+- 💬 Ask me about **React, MobX, Typescript, jQuery, Backbone**
 
 - 📫 How to reach me **adamholwerda@gmail.com**
 
