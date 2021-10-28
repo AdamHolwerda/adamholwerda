@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [QUESTA](https://questa.space)
 
-- 👨‍💻 Some of my projects are listed at [https://adamholwerda.vercel.app](https://adamholwerda.vercel.app)
+- 👨‍💻 Some of my projects are listed at [https://holwerda.codes](https://holwerda.codes)
 
 - 📝 I sometimes write articles on [https://dev.to/adamholwerda](https://dev.to/adamholwerda)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **adamholwerda@gmail.com**
 
-- 📄 Know about my experiences [https://adamholwerda.vercel.app/resume](https://adamholwerda.vercel.app/resume)
+- 📄 Know about my experiences [https://holwerda.codes/resume](https://holwerda.codes/resume)
 
 - ⚡ Fun fact **I love writing!**
 
