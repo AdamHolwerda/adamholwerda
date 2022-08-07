@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A web application developer and engineer living in Boston</h3>
+<h3 align="center">A web application developer and engineer living in Michigan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamholwerda&label=Profile%20views&color=0e75b6&style=flat" alt="adamholwerda" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [Letterloom](https://letterloom.com)
 
-- 🌱 I’m currently learning **Rust, Electron, A-Frame, Blender**
-
-- 👯 I’m looking to collaborate on [QUESTA](https://questa.space)
+- 🌱 I’m currently interested in learning **Rust, Electron, A-Frame, Blender**
 
 - 👨‍💻 Some of my projects are listed at [https://holwerda.codes](https://holwerda.codes)
 
