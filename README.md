@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently interested in learning **Rust, Electron, A-Frame, Blender**
 
-- 👨‍💻 Some of my projects are listed at [https://adamholwerda.com/codes](https://adamholwerda.com/codes)
+- 👨‍💻 Some of my projects are listed at [https://adamholwerda.com/code](https://adamholwerda.com/code)
 
 - 📝 I sometimes write articles on [https://dev.to/adamholwerda](https://dev.to/adamholwerda)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adamholwerda@gmail.com**
 
-- 📄 Know about my experiences [https://adamholwerda.com/codes/resume](https://adamholwerda.com/codes/resume)
+- 📄 Know about my experiences [https://adamholwerda.com/code/resume](https://adamholwerda.com/code/resume)
 
 - ⚡ Fun fact **I love writing!**
 
