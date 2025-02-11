@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A web application developer and engineer living in Michigan</h3>
+<h3 align="center">A web application developer and engineer living in Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamholwerda&label=Profile%20views&color=0e75b6&style=flat" alt="adamholwerda" /> </p>
 
